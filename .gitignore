@@ -1,0 +1,20 @@
+# Java build output
+out/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+# Frontend dependencies and build output
+node_modules/
+dist/
+.env
