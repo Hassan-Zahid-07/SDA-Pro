@@ -49,3 +49,8 @@ This dashboard supports the following SDA-Pro requirements:
 - Response action history
 - Observer/Event-Driven updates
 - Analyst-triggered response actions
+## Dashboard Validation
+
+The SOC dashboard was reviewed and refined to support incident monitoring, alert visualization, audit logging, and MVC-based dashboard requirements defined in the project specification.
+
+Contributor: Malik Hamza Shahid
